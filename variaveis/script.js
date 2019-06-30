@@ -9,7 +9,11 @@ var nome = 'Davi Ribeiro'; // Aqui eu salvei na
 // no meu código novamente caso eu precise.
 
 console.log(`Meu nome é ${nome}.`); // Aqui eu 
-// coloquei para voltar no meu console a
+// coloquei uma template string ela possibilita 
+// você a colocar variáveis dentro da string
+// sem precisar fazer concatenacoes
+// e o console log eu coloquei para voltar 
+// no meu console do browser a
 // seguinte frase Meu nome é Davi Ribeiro.
 
 // Podemos utilizar variáveis para fazer somas
