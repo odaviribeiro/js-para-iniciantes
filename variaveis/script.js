@@ -112,4 +112,4 @@ let primeiravariavel = '';
 const constante = '';
 var variavel = '';
 
-// Essas são todas as variáveis.
+// Essas são todas as variáveis até hoje.
