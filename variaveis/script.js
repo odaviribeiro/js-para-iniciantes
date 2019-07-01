@@ -1,4 +1,4 @@
-// O que são variáveis?
+// O que são variáveis??
 // Variáveis são pequenos valores que são
 // salvos na memória do computador do usuário
 // Não sou o melhor explicando, porém é
