@@ -80,5 +80,5 @@ for (var fruta = 0; fruta < saladaFruta.length; fruta++) {
 
 var UltimaFruta = saladaFruta[saladaFruta.length -1]; // Aqui eu estou trazendo a última fruta do
 // array o -1 é pelo motivo que a array começa
-// contando do 0 logo se existem 28 itens o 27
+// contando do 0 logo se existem 28 itens o 27 
 // será o último partindo do 0.
