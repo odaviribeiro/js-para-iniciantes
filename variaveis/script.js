@@ -108,8 +108,8 @@ console.log(modulacao); // Retornamos o resultado
 // Existem mais variáveis, mas por enquanto
 // foquem apenas nessa e depois tente mais.
 
-let primeiravariavel = '';
-const constante = '';
-var variavel = '';
+let primeiravariavel = ''; // É parecida com o var, mas ela não é vista fora do escopo atual.
+const constante = ''; // É uma constante, o valor dela nunca poderá ser alterado.
+var variavel = ''; // É uma variável global, ou seja... é vista e todos escopos.
 
-// Essas são todas as variáveis até hoje.
+// Essas são todas as variáveis até hoje disponíveis.
